@@ -4,15 +4,24 @@
 **Número do Grupo**: G6<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 18/0022962  |  Luís Guilherme Gaboardi Lins |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
+| Matrícula  | Aluno                        |
+| ---------- | ---------------------------- |
+| 18/0022962 | Luís Guilherme Gaboardi Lins |
+| xx/xxxxxx  | Lucas Sales                  |
+| xx/xxxxxx  | Murilo                       |
+| xx/xxxxxx  | Marcelo                      |
+| xx/xxxxxx  | Israel                       |
+| xx/xxxxxx  | Caio                         |
+| xx/xxxxxx  | Kaique                       |
+
+## Sobre
+
+Projeto da disciplina de Arquitetura e Desenho de Software da Universidade de Brasília (UnB) do semestre 2023.1, cujo tema é a análise da política de trocas e devoluções da [Ri Happy](https://www.rihappy.com.br/).
 <!-- Contextualize, usando referências, links, e outros materiais como fontes. -->
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
+
 <!-- Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega. -->
 
 <!-- ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
@@ -24,7 +33,7 @@ Adicione 2 ou mais screenshots em termos de artefatos da Terceira Entrega.
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 
-## Descritivo dos Principais Aspectos Técnicos 
+## Descritivo dos Principais Aspectos Técnicos
 **Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
 **Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
@@ -38,5 +47,5 @@ Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 
 <!-- Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução. -->
 
-<!-- ## Informações Complementares 
+<!-- ## Informações Complementares
 Quaisquer outras informações adicionais podem ser descritas nessa seção. -->

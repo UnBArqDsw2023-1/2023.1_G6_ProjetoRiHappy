@@ -1,34 +1,21 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# RiHappy: Perfil Comprador & Plataforma, e fluxos compreendidos nas políticas de trocas e devoluções
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: G6<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0022962  |  Luís Guilherme Gaboardi Lins |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+<!-- Contextualize, usando referências, links, e outros materiais como fontes. -->
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
+<!-- Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega. -->
 
-## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
+<!-- ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Segunda Entrega.
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
@@ -41,15 +28,15 @@ Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 **Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
 **Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br> -->
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
+(X) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+<!-- Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução. -->
 
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+<!-- ## Informações Complementares 
+Quaisquer outras informações adicionais podem ser descritas nessa seção. -->

@@ -1,0 +1,175 @@
+# Introdução:
+O plano de gerenciamento de riscos é um componente essencial de todo projeto, pois auxilia na identificação e avaliação de riscos potenciais que podem impactar o sucesso do projeto, bem como na formulação de soluções de mitigação. Para garantir o sucesso do empreendimento e a entrega de resultados que satisfaçam as partes envolvidas, este documento descreve os procedimentos e processos utilizados para o gerenciamento de riscos em um projeto.
+
+# Metodologia:
+O estudo dos dados pertinentes do projeto, incluindo seus objetivos e entregas, serviu de base para a abordagem usada para criar essa estratégia de risco. Os principais perigos potenciais que poderiam ter impacto no sucesso do projeto foram determinados com base nessas informações.
+
+A probabilidade de ocorrência e quaisquer consequências potenciais para cada risco identificado foram especificadas. O desenvolvimento de medidas de mitigação ou substituição foi o próximo passo para reduzir o impacto negativo dos perigos.
+
+Ao longo do projeto, este plano será avaliado frequentemente para avaliar a eficácia das medidas de mitigação de riscos e para fazer as modificações necessárias em resposta ao desenvolvimento do projeto e à descoberta de novos riscos potenciais.
+
+# Estratégia de Gerenciamento de Riscos:
+
+O processo de gerenciamento de riscos é uma atividade essencial para garantir o sucesso do projeto. Ele é composto por cinco etapas: identificação de riscos, avaliação de riscos, planejamento de respostas a riscos, implementação de respostas a riscos e monitoramento e controle de riscos.
+
+- Identificação de riscos:
+A primeira etapa do processo de gerenciamento de riscos é a identificação dos riscos que podem afetar o projeto. Isso envolve uma análise detalhada do projeto, seus objetivos e requisitos, bem como dos fatores externos que podem influenciar o seu desempenho.
+
+- Avaliação de riscos:
+Após a identificação dos riscos, é necessário avaliá-los em termos de probabilidade e impacto. Isso permite priorizar os riscos e concentrar os esforços de gerenciamento nos mais críticos.
+
+ - Planejamento de respostas a riscos:
+Com base na avaliação dos riscos, é necessário planejar as respostas a serem adotadas em caso de ocorrência de um risco. Essas respostas podem incluir a mitigação do risco, a transferência do risco para terceiros, a aceitação do risco ou a evitação do risco.
+
+- Implementação de respostas a riscos:
+Após o planejamento das respostas a riscos, é necessário implementá-las. Isso envolve a definição de medidas concretas para reduzir a probabilidade e/ou o impacto do risco.
+
+- Monitoramento e controle de riscos:
+Por fim, é necessário monitorar e controlar os riscos ao longo do projeto. Isso permite detectar precocemente a ocorrência de um risco e adotar medidas preventivas ou corretivas.
+
+# Classes de Riscos:
+
+Os riscos podem ser classificados em diversas categorias, dependendo da natureza do projeto e das suas características específicas. Algumas das categorias mais comuns incluem:
+
+- Riscos técnicos: relacionados à tecnologia utilizada no projeto, incluindo problemas de compatibilidade, falhas de hardware ou software, entre outros.
+
+- Riscos financeiros: relacionados a aspectos financeiros do projeto, incluindo orçamento insuficiente, aumento de custos imprevistos, entre outros.
+
+- Riscos organizacionais: relacionados à organização do projeto, incluindo problemas de comunicação, conflitos entre membros da equipe, entre outros.
+
+- Riscos de recursos humanos: relacionados aos recursos humanos envolvidos no projeto, incluindo problemas de capacitação, indisponibilidade de membros da equipe, entre outros.
+
+- Riscos de prazo: relacionados ao prazo de entrega do projeto, incluindo atrasos na entrega de atividades, imprevistos que afetem o cronograma, entre outros.
+
+- Riscos de mercado: relacionados a fatores externos ao projeto, como mudanças nas condições econômicas, concorrência, entre outros.
+
+# Definição de probabilidade e impacto
+
+Probabilidade é uma medida que indica a chance de um evento ocorrer. Na gestão de riscos, a probabilidade é usada para avaliar a possibilidade de um risco se materializar e causar impactos negativos no projeto. Geralmente, a probabilidade é avaliada em uma escala de baixa, média e alta, utilizaremos essas medidas.
+
+<table>
+  <thead>
+    <tr>
+      <th>Probabilidade</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Baixa</td>
+      <td>Risco pouco provável de acontecer ou com baixa chance de impacto no projeto.</td>
+    </tr>
+    <tr>
+      <td>Média</td>
+      <td>Risco com possibilidade moderada de acontecer e com um impacto significativo no projeto.</td>
+    </tr>
+    <tr>
+      <td>Alta</td>
+      <td>Risco com alta probabilidade de acontecer e com impacto crítico no projeto, podendo afetar significativamente sua conclusão.</td>
+    </tr>
+  </tbody>
+</table>
+
+Por outro lado, impacto é a extensão do efeito que um risco materializado pode causar no projeto. O impacto pode ser avaliado em diferentes aspectos, como custo, prazo, qualidade, satisfação do cliente, dentre outros. A avaliação do impacto é importante para priorizar os riscos e determinar a necessidade de ações de mitigação.
+
+<table>
+  <thead>
+    <tr>
+      <th>Impacto</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Baixo</td>
+      <td>Pequena influência no resultado final do projeto</td>
+    </tr>
+    <tr>
+      <td>Médio</td>
+      <td>Influência moderada no resultado final do projeto</td>
+    </tr>
+    <tr>
+      <td>Alto</td>
+      <td>Grande influência no resultado final do projeto</td>
+    </tr>
+  </tbody>
+</table>
+
+Em conjunto, a avaliação da probabilidade e do impacto dos riscos é fundamental para uma gestão efetiva de riscos em projetos, permitindo que a equipe de projeto se prepare adequadamente para lidar com os riscos mais relevantes e minimizar seus impactos negativos.
+
+# Riscos do projeto
+
+A tabela de riscos apresenta os principais riscos que podem afetar o projeto, com informações sobre sua probabilidade, impacto e planos de mitigação. Ela é uma ferramenta importante para identificar e gerenciar possíveis problemas que possam ocorrer durante o desenvolvimento do projeto.
+
+<table>
+  <thead>
+    <tr>
+      <th>Risco</th>
+      <th>Probabilidade</th>
+      <th>Impacto</th>
+      <th>Plano de Mitigação/Substituição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Atraso na entrega do trabalho devido a problemas de comunicação e coordenação entre os membros da equipe.</td>
+      <td>Média</td>
+      <td>Alto</td>
+      <td>Estabelecer canais claros de comunicação desde o início do projeto, definir responsabilidades e prazos para cada tarefa, realizar reuniões regulares para acompanhar o andamento do projeto e incentivar a comunicação aberta e efetiva entre todos os membros da equipe.</td>
+    </tr>
+    <tr>
+      <td>Problemas técnicos com as ferramentas e softwares utilizados durante a Design Sprint.</td>
+      <td>Baixa</td>
+      <td>Médio</td>
+      <td>Realizar testes prévios nas ferramentas, verificar a compatibilidade de softwares e garantir o acesso aos recursos necessários. Caso ocorram problemas técnicos, buscar soluções alternativas ou utilizar outras ferramentas disponíveis.</td>
+    </tr>
+    <tr>
+      <td>Indisponibilidade de membros da equipe durante o período de trabalho.</td>
+      <td>Baixa</td>
+      <td>Médio</td>
+      <td>Caso algum membro da equipe esteja indisponível, identificar um substituto com habilidades e conhecimentos similares para assumir suas responsabilidades, ou distribuir as tarefas para os membros disponíveis.</td>
+    </tr>
+    <tr>
+      <td>Problemas de qualidade nos artefatos elaborados durante a Design Sprint.</td>
+      <td>Média</td>
+      <td>Médio</td>
+      <td>Estabelecer critérios claros para a avaliação da qualidade dos artefatos, realizar revisões regulares, buscar feedback de outros membros da equipe e de especialistas na área. Caso ocorram problemas de qualidade, buscar soluções para corrigi-los ou refazer os artefatos.</td>
+    </tr>
+    <tr>
+      <td>Superestimação do tempo necessário para a realização das atividades.</td>
+      <td>Alta</td>
+      <td>Baixo</td>
+      <td>Realizar uma análise cuidadosa das tarefas necessárias para a elaboração dos artefatos, estabelecer prazos realistas e revisá-los regularmente de acordo com o progresso do projeto. Caso necessário, redefinir os prazos para garantir a conclusão do projeto dentro do prazo.</td>
+    </tr>
+    <tr>
+      <td>Mudanças de escopo durante o projeto que possam afetar a entrega dos artefatos.</td>
+      <td>Baixa</td>
+      <td>Alto</td>
+      <td>Definir um escopo claro e bem definido no início do projeto, estabelecer critérios para avaliação de possíveis mudanças e comunicar as decisões para toda a equipe. Caso ocorram mudanças, avaliar seu impacto no projeto e tomar decisões para minimizar os efeitos negativos.</td>
+  </tbody>
+</table>
+
+# Referênica Bibliográfica
+Monitoria, A. Controle de Riscos: A Monitoria. ADS 2019.2. 2019. Disponível em: https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos/. Acesso em: 19 abr. 2023.
+
+# Histórico de versões
+
+<table>
+  <thead>
+    <tr>
+      <th>Versão</th>
+      <th>Data</th>
+      <th>Descrição</th>
+      <th>Autor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>v1.0</td>
+      <td>22/04/2023</td>
+      <td>Versão inicial do documento</td>
+      <td>Murilo Perazzo</td>
+    </tr>
+  </tbody>
+</table>
+

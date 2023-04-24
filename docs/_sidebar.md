@@ -6,7 +6,15 @@
 - **Base**
   - [1. Desenho de Software (Base)](/docs/Base/1.1.AbordagemNaoEspecifica.md)
     - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](/docs/Base/1.1.AbordagemNaoEspecifica.md)
+      - [1.1.1. Mapa de Calor](/docs/Base/Artefatos/1.1.1.MapaCalor.md)
+      - [1.1.2. 5W2H](/docs/Base/Artefatos/1.1.2.5W2H.md)
+      - [1.1.3. Mapa Mental](/docs/Base/Artefatos/1.1.3.MapaMental.md)
+      - [1.1.4. Fluxograma](/docs/Base/Artefatos/1.1.4.Fluxograma.md)
+      - [1.1.5. Rich Pictures](/docs/Base/Artefatos/1.1.5.RichPictures.md)
+      - [1.1.6. Story Telling](/docs/Base/Artefatos/1.1.6.StoryTelling.md)
+      - [1.1.7. Plano de Risco, Custo e tempo](/docs/Base/Artefatos/1.1.7.PlanoRiscoCustoTempo.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/docs/Base/1.2.ProcessosMetodologiasAbordagens.md)
+      - [1.2.1. BPMN](/docs/Base/Artefatos/1.2.1.BPMN.md)
     - [1.3. Participações - Base](/docs/Base/1.3.ParticipacoesBase.md)
 
 - **Modelagem**

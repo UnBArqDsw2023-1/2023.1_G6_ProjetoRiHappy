@@ -161,6 +161,7 @@ Monitoria, A. Controle de Riscos: A Monitoria. ADS 2019.2. 2019. Disponível em:
       <th>Data</th>
       <th>Descrição</th>
       <th>Autor</th>
+      <th>Revisor</th>
     </tr>
   </thead>
   <tbody>
@@ -169,6 +170,7 @@ Monitoria, A. Controle de Riscos: A Monitoria. ADS 2019.2. 2019. Disponível em:
       <td>22/04/2023</td>
       <td>Versão inicial do documento</td>
       <td>Murilo Perazzo</td>
+      <td></td>
     </tr>
   </tbody>
 </table>

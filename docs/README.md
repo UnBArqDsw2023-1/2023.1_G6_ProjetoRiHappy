@@ -7,13 +7,17 @@
 
 | Matrícula  | Aluno                             | Github                                           |
 | ---------- | --------------------------------- | ------------------------------------------------ |
+| 17/0007413  | Caio Brandão Santos| [@caiobsantos](https://github.com/caiobsantos)                                                 |
+| 19/0014776  | Israel Thalles Dutra dos Santos | [@IsraelThalles](https://github.com/IsraelThalles)                                                 |
+| 17/0014771  | Kaique Henrique de Carvalho Borges | [@ikeborges](https://github.com/ikeborges)                                                 |
+| 18/0105451  | Lucas Sales Ribeiro  | [@lux-sales](https://github.com/lux-sales) |
 | 18/0022962 | Luís Guilherme Gaboardi Lins      | [@luisgaboardi](https://github.com/luisgaboardi) |
-| xx/xxxxxx  | Lucas Sales                       |                                                  |
-| xx/xxxxxx  | Murilo Perazzo Barbosa Souto      | [@murilopbs](https://github.com/murilopbs)       |
 | 19/0047348 | Marcelo Ferreira Magalhães Júnior | [@marrcelo](https://github.com/marrcelo)         |
-| xx/xxxxxx  | Israel                            |                                                  |
-| xx/xxxxxx  | Caio                              |                                                  |
-| xx/xxxxxx  | Kaique  
+| 19/0129221  | Murilo Perazzo Barbosa Souto      | [@murilopbs](https://github.com/murilopbs)       |
+
+
+
+
 
 ## Sobre
 

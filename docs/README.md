@@ -13,7 +13,7 @@
 | 19/0047348 | Marcelo Ferreira Magalhães Júnior | [@marrcelo](https://github.com/marrcelo)         |
 | xx/xxxxxx  | Israel                            |                                                  |
 | xx/xxxxxx  | Caio                              |                                                  |
-| xx/xxxxxx  | Kaique                            |                                                  |
+| xx/xxxxxx  | Kaique  
 
 ## Sobre
 

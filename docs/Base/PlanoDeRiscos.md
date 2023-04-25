@@ -1,3 +1,26 @@
+# Plano de Riscos
+
+<table>
+  <thead>
+    <tr>
+      <th>Versão</th>
+      <th>Descrição</th>
+      <th>Responsáveis</th>
+      <th>Revisor</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.0</td>
+      <td>Versão inicial do documento</td>
+      <td>Murilo Perazzo</td>
+      <td></td>
+      <td>22/04/2023</td>
+    </tr>
+  </tbody>
+</table>
+
 # Introdução:
 O plano de gerenciamento de riscos é um componente essencial de todo projeto, pois auxilia na identificação e avaliação de riscos potenciais que podem impactar o sucesso do projeto, bem como na formulação de soluções de mitigação. Para garantir o sucesso do empreendimento e a entrega de resultados que satisfaçam as partes envolvidas, este documento descreve os procedimentos e processos utilizados para o gerenciamento de riscos em um projeto.
 
@@ -152,26 +175,5 @@ A tabela de riscos apresenta os principais riscos que podem afetar o projeto, co
 # Referênica Bibliográfica
 Monitoria, A. Controle de Riscos: A Monitoria. ADS 2019.2. 2019. Disponível em: https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos/. Acesso em: 19 abr. 2023.
 
-# Histórico de versões
 
-<table>
-  <thead>
-    <tr>
-      <th>Versão</th>
-      <th>Data</th>
-      <th>Descrição</th>
-      <th>Autor</th>
-      <th>Revisor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>v1.0</td>
-      <td>22/04/2023</td>
-      <td>Versão inicial do documento</td>
-      <td>Murilo Perazzo</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
 

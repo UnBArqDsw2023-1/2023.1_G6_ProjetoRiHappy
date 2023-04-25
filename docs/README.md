@@ -11,7 +11,7 @@
 | xx/xxxxxx  | Lucas Sales                  |
 | 19/0129221  | Murilo Perazzo Barbosa Souto|
 | xx/xxxxxx  | Marcelo                      |
-| xx/xxxxxx  | Israel                       |
+| 19/0014776  | Israel Thalles Dutra dos Santos|
 | xx/xxxxxx  | Caio                         |
 | xx/xxxxxx  | Kaique                       |
 

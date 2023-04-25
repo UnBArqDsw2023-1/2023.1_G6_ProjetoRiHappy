@@ -9,7 +9,7 @@
 | ---------- | ---------------------------- |
 | 18/0022962 | Luís Guilherme Gaboardi Lins |
 | xx/xxxxxx  | Lucas Sales                  |
-| xx/xxxxxx  | Murilo                       |
+| 19/0129221  | Murilo Perazzo Barbosa Souto|
 | xx/xxxxxx  | Marcelo                      |
 | xx/xxxxxx  | Israel                       |
 | xx/xxxxxx  | Caio                         |

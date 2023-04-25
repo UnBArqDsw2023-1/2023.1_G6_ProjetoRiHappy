@@ -9,7 +9,7 @@
 | ---------- | --------------------------------- | ------------------------------------------------ |
 | 18/0022962 | Luís Guilherme Gaboardi Lins      | [@luisgaboardi](https://github.com/luisgaboardi) |
 | xx/xxxxxx  | Lucas Sales                       |                                                  |
-| xx/xxxxxx  | Murilo                            |                                                  |
+| xx/xxxxxx  | Murilo Perazzo Barbosa Souto      | [@murilopbs](https://github.com/murilopbs)       |
 | 19/0047348 | Marcelo Ferreira Magalhães Júnior | [@marrcelo](https://github.com/marrcelo)         |
 | xx/xxxxxx  | Israel                            |                                                  |
 | xx/xxxxxx  | Caio                              |                                                  |

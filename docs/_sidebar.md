@@ -24,9 +24,13 @@
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](Modelagem/2.1.ModelagemTradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](Modelagem/2.1.1.UMLEstaticos.md)
-        - [2.1.1.1. Diagrama de Classes - Venda](Modelagem/Artefatos/2.1.1.1.DiagramaClasseVenda.md)
-        - [2.1.1.2. Diagrama de Classes - Troca e Devolução](Modelagem/Artefatos/2.1.1.2.DiagramaClasseTrocaDevolucao.md)
+        - [2.1.1.1. Venda](Modelagem/Artefatos/2.1.1.1.DiagramaClasseVenda.md)
+        - [2.1.1.2. Troca e Devolução](Modelagem/Artefatos/2.1.1.2.DiagramaClasseTrocaDevolucao.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](Modelagem/2.1.2.UMLDinamicos.md)
+        - [2.1.2.1. Compra em Loja Física](Modelagem/Artefatos/2.1.2.1.DiagramaAtividadesProdutoLojaFisica.md)
+        - [2.1.2.2. Compra pelo Marketplace](Modelagem/Artefatos/2.1.2.2.DiagramaAtividadesProdutoMarketplace.md)
+        - [2.1.2.3. Compra pelo Site ou WhatsApp](Modelagem/Artefatos/2.1.2.3.DiagramaAtividadesProdutoSiteWpp.md)
+        - [2.1.2.4. Compra de Produto sem Troca](Modelagem/Artefatos/2.1.2.4.DiagramaAtividadesProdutoIntrocavel.md)
     - [2.2. Participações - Modelagem](Modelagem/2.2.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**

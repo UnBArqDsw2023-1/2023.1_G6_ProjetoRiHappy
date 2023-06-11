@@ -33,6 +33,11 @@ class Troca_Loja_Fisica(Fluxo_de_Troca):
     def realizar_troca(self):
         print("trocando dentro da classe de loja fisica")
         pass
+    
+class Troca_Marketplace(Fluxo_de_Troca):
+    def realizar_troca(self):
+        print("trocando dentro do marketplace")
+        pass
 
 
 produto = 'banana'
@@ -40,4 +45,8 @@ motivo = 'estragada'
 decisor = Decisor(Troca_Loja_Fisica(produto,motivo))
 print('decisor está setado para troca de loja fisica')
 decisor.realizar_troca()
+print('decisor trocando para troca marketplace')
+decisor.fluxo = Troca_Marketplace(produto,motivo)
+decisor.realizar_troca()
+
         

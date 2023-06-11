@@ -1,6 +1,7 @@
 from __future__ import annotations
 from abc import ABC, abstractmethod
 from typing import List
+from termcolor import colored, cprint
 
 class Produto:
     def __init__(self, nome, adquirido_por, adquirido_em, passivel_de_troca, integridade_fisica):
@@ -40,6 +41,7 @@ class Fluxo_de_Troca(ABC):
     
 class Troca_Loja_Fisica(Fluxo_de_Troca):
     def realizar_troca(self):
+        cprint("================= Começo Troca Loja Física =================", 'red', 'on_cyan')
         printaCondicoes()
         decisao = input("Digite '1' se seu produto atende a todas as condições e você deseja a troca pelo mesmo produto.\nDigite '2' se seu produto atende a todas as condições e você deseja a troca por outro produto.\nDigite '3' se ele não atende a todas as condições.")
         if decisao == '1':
@@ -49,6 +51,7 @@ class Troca_Loja_Fisica(Fluxo_de_Troca):
             print("Realizando troca em loja física do produto '{}' para o produto '{}'".format(self._produto.nome, novoProduto))
         if decisao == '3':
             print("Infelizmente a troca em loja física para o produto '{}' não é possível de ser realizada" .format(self._produto.nome))
+        cprint("================= Fim Troca Loja Física =================", 'red', 'on_cyan')
         pass
     
 class Troca_Marketplace(Fluxo_de_Troca):
@@ -66,7 +69,7 @@ def printaCondicoes():
     condicoes.append("Seu produto foi comprado em uma loja física?")
     condicoes.append("O produto desejado faz parte dessa loja?")
     for i in condicoes:
-        print(i)
+        cprint(i, 'green', 'on_red')
 
 
 produto = Produto('banana', 'fulano', '11/06/2023', True, True)

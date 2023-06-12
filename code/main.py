@@ -9,6 +9,36 @@ class Produto:
         self._adquirido_por = adquirido_por
         self._adquirido_em = adquirido_em
         self._passivel_de_troca = passivel_de_troca
+    
+    def verificar_passivel_de_troca(self):
+        if self._passivel_de_troca:
+            return
+        else:
+            decisao = input("Digite '1' se o produto for não passível de troca, devolução ou cancelamento\nDigite '2' o produto não for passível de troca por defeito: ")
+            if decisao == '1':
+                decisao = input("Digite '1' se o produto foi adquirido em promoções como Black Friday, por exemplo\nDigite '2' se seu produto foi adquirido em uma loja física\nDigite '3' se é um cartão exclusivo (Xbox Live, PSN, etc...)")
+                if decisao == '1':
+                    print("Esse produto não é passível de devolução, sendo sua troca efetuada apenas por defeito e pelo mesmo produto.")
+                if decisao == '2':
+                    print("Esse produto não pode ser devolvido, apenas trocado.")
+                if decisao == '3':
+                    print("Esse produto não pode ser devolvido/trocado/reembolsado.")
+                decisao = 13
+            if decisao == '2':
+                decisao = input("Digite '1' se o produto está dentre estes: Bicicletas, puericultura pesada (carrinhos, banheiras, cadeirinhas, etc), games, miniveículos e miniveículos elétricos\nDigite '2' se o produto está dentre estes: Lego, playmobil, quebra-cabeças e jogos\nDigite '3' se o produto está dentre estes: Produtos surpresa\nDigite '4' se o produto está dentre estes: Puericultura leve (bico de chupeta ou mamadeira, mamadeira, chupeta, mordedor, etc), papelaria, e vestuário\nDigite '5' se o produto está dentre estes: Brinquedos eletrônicos\nDigite '6' se o produto está dentre estes: Fantasias.")
+                if decisao == '1':
+                    print("Será necessário o acionamento da assistência técnica")
+                if decisao == '2':
+                    print("Será necessário acionar o fabricante, após isso as peças faltantes serão repostas")
+                if decisao == '3':
+                    print("Será necessário acionar o fabricante para análise")
+                if decisao == '4':
+                    print("Não há troca por defeito")
+                if decisao == '5':
+                    print("Será necessário acionar a assistência técnica")
+                if decisao == '6':
+                    print("Em lojas físicas, a troca de fantasias só podem ser feitas por outras fantasias. Já pelo site, a troca não é permitida, apenas a devolução do produto com estorno do valor.")
+            exit()
 
 
 class Decisor:
@@ -172,15 +202,17 @@ print('''Lego, playmobil, quebra-cabeças e jogos, produtos surpresa,
       \n''')
 passivel_de_troca_str = input("Seu produto está incluido nessa lista? Digite 's' para sim e 'n' para não\n")
 if passivel_de_troca_str == 's':
-        passivel_de_troca = False
+    passivel_de_troca = False
 elif passivel_de_troca_str == 'n':
-        passivel_de_troca = True
+    passivel_de_troca = True
 else:
     raise Exception("Resposta inválida, encerrando fluxo")
     
 produto = Produto(nome_produto, adquirido_por, adquirido_em, passivel_de_troca)
-
-if produto._adquirido_por == "loja_fisica":
+if produto._passivel_de_troca == False:
+    print('Produto não passível de troca')
+    produto.verificar_passivel_de_troca()
+elif produto._adquirido_por == "loja_fisica":
     print('Decisor está configurado para troca em loja física')
     decisor = Decisor(Troca_Loja_Fisica(produto))
 elif produto._adquirido_por == "site/whatsapp":
@@ -191,4 +223,3 @@ elif produto._adquirido_por == "marketplace":
     decisor = Decisor(Troca_Marketplace(produto))
 
 decisor.realizar_troca()
-    

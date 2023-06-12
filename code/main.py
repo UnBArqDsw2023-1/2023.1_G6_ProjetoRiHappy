@@ -113,9 +113,9 @@ class Troca_Site_Whatsapp(Fluxo_de_Troca):
         if decisao == '1':
             self.printaCondicoes("Troca_Site_Whatsapp_1")
             decisao = input("Digite '1' se seu produto atende a todas as condições e você deseja o reembolso e '2' se você não deseja: ")
-            if decisao == '1':
-                print("Infelizmente o reembolso para o produto '{}' não é possível de ser realizado" .format(self._produto._nome))
             if decisao == '2':
+                print("Infelizmente o reembolso para o produto '{}' não é possível de ser realizado" .format(self._produto._nome))
+            if decisao == '1':
                 print("Realizando reembolso para o produto {}, confira seu e-mail" .format(self._produto._nome))
             decisao = 13
         if decisao == '2':

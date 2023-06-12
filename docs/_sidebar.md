@@ -37,7 +37,12 @@
 
   - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1. Módulo Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
+      - [3.1.1. Information Expert](PadroesDeProjeto/GRASP/3.1.1.InformationExpert.md)
+      - [3.1.2. Polimorfismo](PadroesDeProjeto/GRASP/3.1.2.Polimorfismo.md)
+      - [3.1.3. Baixo Acoplamento](PadroesDeProjeto/GRASP/3.1.3.BaixoAcoplamento.md)
+      - [3.1.4. Alta Coesão](PadroesDeProjeto/GRASP/3.1.4.AltaCoesao.md)
     - [3.2. Módulo Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
+      - [3.1.1. Strategy](PadroesDeProjeto/GOFS/3.2.1.Estrategia.md)
     - [3.3. Módulo Padrões de Projeto Extras](PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Participações - Padrões de Projeto](PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 

@@ -1,3 +1,5 @@
+# Visão de Processos
+
 ## Histórico de Alterações
 
 | Versão | Descrição                                                    | Responsáveis                                   | Data       |
@@ -16,7 +18,7 @@ A visão arquitetural do processo de troca e devolução da RiHappy abrange desd
 
 # Diagrama de Sequência
 
-<br>![image](ArquiteturaReutilizacao/imagens/Diagramadesequenciaprocessosjpeg)
+<br>![image](../imagens/Diagramadesequenciaprocessos.jpeg)
 
 # Descrição das Tarefas
 
